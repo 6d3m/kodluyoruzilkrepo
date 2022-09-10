@@ -27,6 +27,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## **Profilim**
+
 [Patika.dev profilim](https://app.patika.dev/adamblue)
 
 [Patika.dev](www.patika.dev)
